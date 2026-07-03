@@ -38,7 +38,7 @@ Jupyter Notebook
 
 
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Load the MNIST dataset
 2. Preprocess and normalize image data
